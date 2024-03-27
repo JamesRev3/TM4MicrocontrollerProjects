@@ -1,1 +1,2 @@
-motiondetector
+This folder consists of a small motion detection system that I created using interrupts. This file requires a "Mfr. Part #
+EKMC4611113K" motion sensor that is hooked up to pin PC5. At current the blue led stays on while motion is being sensed and in the future, I intend to update this to function with a transducer, aka speaker, to have that going off while motion is being detected so as to be more similar to a security motion sensor.
